@@ -13,7 +13,7 @@
     // get table elements
     var tables = document.getElementsByTagName('table');
 
-    // iterate over each table element
+    // iterate over table elements
     for (var i = 0; i < tables.length; i++) {
         var table = tables[i];
 
