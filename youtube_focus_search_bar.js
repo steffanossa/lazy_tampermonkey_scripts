@@ -2,7 +2,7 @@
 // @name         YouTube Search Box Autofocus
 // @version      1.0
 // @description  Focus the youtube search bar. time saved  is time saved.
-// @author       me
+// @author       steffanossa
 // @match        https://www.youtube.com/
 // @grant        none
 // ==/UserScript==
