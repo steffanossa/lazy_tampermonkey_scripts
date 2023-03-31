@@ -1,6 +1,5 @@
 // ==UserScript==
 // @name         YouTube Search Box Autofocus
-// @namespace    https://www.youtube.com/
 // @version      1.0
 // @description  Focus the youtube search bar. time saved  is time saved.
 // @author       me
